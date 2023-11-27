@@ -15,8 +15,8 @@ receipt.
 
 ## Screenshots
 
-TODO
+<img src="screenshots/HomeScreen.png" />
 
 ## Credit
 
-- Flow Design inspiration from @leyeConnect on Twitter.
+Flow Design inspiration from @leyeConnect on Twitter.
