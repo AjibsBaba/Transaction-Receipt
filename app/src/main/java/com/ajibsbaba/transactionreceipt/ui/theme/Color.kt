@@ -2,10 +2,13 @@ package com.ajibsbaba.transactionreceipt.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Blue = Color(0xFFDDE3F1)
-val Blue40 = Color(0xFF00A3FF)
-val Grey = Color(0xFF4B4B4B)
-val Black100 = Color(0xFF000000)
+val Blue20 = Color(0xFFDDE3F1)
+val Blue80 = Color(0xFF00A3FF)
+val Grey20 = Color(0xFFCCD3E6)
+val Green = Color(0xFF3EB68F)
+
+val BaseBlack = Color(0f, 0f, 0f, 1f)
+val BlackGradient = BaseBlack.copy(alpha = 0.48f)
 
 val Purple80 = Color(0xFFD0BCFF)
 val PurpleGrey80 = Color(0xFFCCC2DC)
